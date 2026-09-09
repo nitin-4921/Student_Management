@@ -1,0 +1,7 @@
+Student ID | Name          | Age | Class | Marks | Grade
+----------------------------------------------------------
+101        | Rahul Sharma  | 16  | 10th  | 85    | A
+102        | Priya Singh   | 15  | 10th  | 92    | A+
+103        | Amit Kumar    | 16  | 10th  | 76    | B+
+104        | Neha Verma    | 15  | 10th  | 88    | A
+105        | Arjun Yadav   | 16  | 10th  | 69    | B
