@@ -1,0 +1,5 @@
+Course ID | Course Name
+-----------------------
+C101      | Mathematics
+C102      | Science
+C103      | Computer Science
